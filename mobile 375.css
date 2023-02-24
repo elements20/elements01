@@ -171,6 +171,9 @@
         overflow: hidden;
         height: 7.55px;
       }
+      .contacts-head{
+          left:-8px
+    }
       .linkedin-button {
         cursor: pointer;
         border: 0;
