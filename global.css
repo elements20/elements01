@@ -534,3 +534,124 @@
   }
   
 }
+@media (max-width:375px) {
+    :root {
+  /* fonts */
+  --font-ubuntu: Ubuntu;
+
+  /* font sizes */
+  --font-size-47xs: 8.63px;
+  --font-size-46xs: 8.54px;
+  --font-size-45xs: 10.05px;
+  --font-size-44xs: 10.55px;
+  --font-size-43xs: 11.5px;
+  --font-size-42xs: 11.38px;
+  --font-size-41xs: 12.05px;
+  --font-size-40xs: 12.19px;
+  --font-size-39xs: 13.48px;
+  --font-size-38xs: 13.33px;
+  --font-size-37xs: 14.57px;
+  --font-size-36xs: 14.06px;
+  --font-size-35xs: 15.73px;
+  --font-size-34xs: 15.56px;
+  --font-size-33xs: 16.07px;
+  --font-size-32xs: 16.24px;
+  --font-size-31xs: 16.06px;
+  --font-size-30xs: 16.47px;
+  --font-size-29xs: 17.19px;
+  --font-size-28xs: 17px;
+  --font-size-27xs: 18.08px;
+  --font-size-26xs: 18.82px;
+  --font-size-25xs: 19.22px;
+  --font-size-24xs: 21.42px;
+  --font-size-23xs: 21.96px;
+  --font-size-22xs: 21px;
+  --font-size-21xs: 24.09px;
+  --font-size-20xs: 24px;
+  --font-size-19xs: 25.1px;
+  --font-size-18xs: 28.24px;
+  --font-size-17xs: 29.99px;
+  --font-size-16xs: 29.28px;
+  --font-size-15xs: 32.94px;
+  --font-size-14xs: 32px;
+  --font-size-13xs: 33.65px;
+  --font-size-12xs: 36px;
+  --font-size-11xs: 44.84px;
+  --font-size-10xs: 52.55px;
+  --font-size-9xs: 61.31px;
+  --font-size-8xs: 67.51px;
+  --font-size-7xs: 67px;
+  --font-size-6xs: 76px;
+  --font-size-5xs: 81.29px;
+  --font-size-4xs: 85.28px;
+  --font-size-3xs: 113.64px;
+  --font-size-2xs: 133.17px;
+  --font-size-xs: 155.37px;
+  --font-size-sm: 169.79px;
+  --font-size-base: 202.91px;
+  --font-size-lg: 270.39px;
+  --font-size-xl: 316.86px;
+  --font-size-2xl: 369.67px;
+  --font-size-3xl: 404px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-royalblue: #0066c5;
+  --color-gray-100: #1b1c1e;
+  --color-gray-200: #1b1b1b;
+  --color-gray-300: #191919;
+  --color-gray-400: rgba(255, 255, 255, 0);
+  --color-gainsboro: #d9d9d9;
+  --color-darkslategray: #37474f;
+
+  /* Gaps */
+  --gap-3xs: 19px;
+  --gap-2xs: 28px;
+  --gap-xs: 32px;
+  --gap-sm: 36px;
+  --gap-md: 39px;
+  --gap-lg: 40px;
+  --gap-xl: 53px;
+  --gap-2xl: 241.08px;
+
+  /* Paddings */
+  --padding-12xs: 6.529260635375977px;
+  --padding-11xs: 11.551769256591797px;
+  --padding-10xs: 12.054018020629883px;
+  --padding-9xs: 22.827831268310547px;
+  --padding-8xs: 25.1125431060791px;
+  --padding-7xs: 39.175567626953125px;
+  --padding-6xs: 46px;
+  --padding-5xs: 53.23859405517578px;
+  --padding-4xs: 54.24308395385742px;
+  --padding-3xs: 62.27910614013672px;
+  --padding-2xs: 68.30612182617188px;
+  --padding-xs: 71.31962585449219px;
+  --padding-sm: 75.3376235961914px;
+  --padding-md: 77.34661865234375px;
+  --padding-lg: 78.85338592529297px;
+  --padding-xl: 80.56883239746094px;
+  --padding-2xl: 90.40516662597656px;
+  --padding-3xl: 91.91190338134766px;
+  --padding-4xl: 105.07894897460938px;
+  --padding-5xl: 120.47269439697266px;
+  --padding-6xl: 123.13727569580078px;
+  --padding-7xl: 141.176513671875px;
+  --padding-8xl: 143.66014099121094px;
+  --padding-9xl: 157px;
+  --padding-10xl: 164.70590209960938px;
+  --padding-11xl: 180px;
+
+  /* border radiuses */
+  --br-4xs: 8.99px;
+  --br-3xs: 11.98px;
+  --br-2xs: 14.04px;
+  --br-xs: 15.57px;
+  --br-sm: 16.38px;
+  --br-md: 17.91px;
+  --br-lg: 20.75px;
+  --br-xl: 24.31px;
+  --br-2xl: 28.37px;
+  --br-3xl: 31px;
+}
+}
