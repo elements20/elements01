@@ -602,7 +602,7 @@
         left: 1px;
         width: 769.95px;
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
         padding: var(--padding-3xs) var(--padding-md);
         box-sizing: border-box;
         align-items: center;
